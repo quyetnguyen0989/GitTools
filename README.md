@@ -42,6 +42,11 @@ optional arguments:
 The input file should contain the targets one per line.
 The script will output discovered domains in the form of ```[*] Found: DOMAIN``` to stdout.
 
+# when download complete hit command to show
+```
+# tree
+# git show 
+
 #### Scanning Alexa’s Top 1M
 
 ```
